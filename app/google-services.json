@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254370967493",
+    "firebase_url": "https://phoneauthfirebase-a9bb5.firebaseio.com",
+    "project_id": "phoneauthfirebase-a9bb5",
+    "storage_bucket": "phoneauthfirebase-a9bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254370967493:android:acbd1d3685116fa0",
+        "android_client_info": {
+          "package_name": "com.example.asus_pc.phone_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254370967493-ern5e0b3i97tpdmr70fe04qach43pvcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus_pc.phone_auth_firebase",
+            "certificate_hash": "0140fd1a85ba19057ece5782a607470e82abfaa2"
+          }
+        },
+        {
+          "client_id": "254370967493-ahv9giu51juuq4ftgml77q1kmnssucss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJplt4HxxOIUsIiB-dTZJmz4pox4RTPEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254370967493-ahv9giu51juuq4ftgml77q1kmnssucss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
